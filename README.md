@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24-orange?logo=scikitlearn)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/AroraTheGreat/Heart-Diseases-Detection-ML)
 # 🫀 Heart Disease Detection using Machine Learning
 
 A machine learning project to predict the presence of heart disease based on clinical data.  
